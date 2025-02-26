@@ -21,11 +21,11 @@ Clone repository and run the program :)
 
 <p align="center">
 Start Screen: <br/>
-<img src="https://imgur.com/vzpPxmQ" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vzpPxmQ.png" height="60%" width="60%" alt="Start Screen"/>
 <br />
 <br />
 Wrong Input:  <br/>
-<img src="https://imgur.com/fkVCBWZ" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fkVCBWZ.png" height="60%" width="60%" alt="Wrong Input"/>
 <br />
 <br />
 
