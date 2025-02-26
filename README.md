@@ -21,11 +21,11 @@ Clone repository and run the program :)
 
 <p align="center">
 Start Screen: <br/>
-<img src="https://i.imgur.com/vzpPxmQ.png" height="60%" width="60%" alt="Start Screen"/>
+<img src="https://i.imgur.com/N5LTYEL.png" height="60%" width="60%" alt="Start Screen"/>
 <br />
 <br />
 Wrong Input:  <br/>
-<img src="https://i.imgur.com/fkVCBWZ.png" height="60%" width="60%" alt="Wrong Input"/>
+<img src="https://i.imgur.com/f0utUf8.png" height="60%" width="60%" alt="Wrong Input"/>
 <br />
 <br />
 
